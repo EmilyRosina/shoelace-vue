@@ -1,0 +1,1 @@
+/* globally register components here */
