@@ -1,16 +1,22 @@
 {
   "name": "shoelace-vue",
-  "version": "0.0.0-alpha.001",
+  "version": "0.0.0-alpha.0",
   "description": "A Vue.js library for Shoelace components",
   "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/EmilyRosina/shoelace-vue.git"
   },
-  "keywords": [ "shoelace", "vue", "components "],
+  "keywords": [
+    "shoelace",
+    "vue",
+    "components "
+  ],
   "author": "Aurora Skye",
   "license": "ISC",
-  "bugs": { "url": "https://github.com/EmilyRosina/shoelace-vue/issues" },
+  "bugs": {
+    "url": "https://github.com/EmilyRosina/shoelace-vue/issues"
+  },
   "homepage": "https://github.com/EmilyRosina/shoelace-vue#readme",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
@@ -22,6 +28,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
+    "shoelace-css": "^1.0.0-beta24",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },

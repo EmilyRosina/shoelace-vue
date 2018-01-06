@@ -3,6 +3,7 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+import shoelace from 'shoelace-css/source/css/shoelace.scss'
 
 Vue.config.productionTip = false
 
