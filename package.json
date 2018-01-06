@@ -1,0 +1,24 @@
+{
+  "name": "shoelace-vue",
+  "version": "1.0.0",
+  "description": "shoelace vue.js component library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmilyRosina/shoelace-vue.git"
+  },
+  "keywords": [
+    "shoelace",
+    "vue",
+    "components"
+  ],
+  "author": "Aurora Skye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmilyRosina/shoelace-vue/issues"
+  },
+  "homepage": "https://github.com/EmilyRosina/shoelace-vue#readme"
+}
